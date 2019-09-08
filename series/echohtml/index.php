@@ -1,3 +1,3 @@
 <?php
-echo "<input type=\"text\" name=\"name\" value=\"Alex\">";
+echo '<input type="text" name="name" value="Alex">';
 ?>
